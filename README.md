@@ -1,2 +1,5 @@
 # Comandos-node-terminal
-comandos do dia-a-dia
+
+- npm run dev - roda o projeto
+- npm build - resetar o servidor
+- npm audit fix - para atualizações e teste de vunabilidade do projeto
