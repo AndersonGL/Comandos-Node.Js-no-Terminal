@@ -2,6 +2,7 @@
 
 - npm init - Para iniciar um novo projeto com Node.js, o comando npm init guia você na criação do arquivo package.json, que é essencial para organizar informações do projeto:
 - npm install - Ele permite instalar pacotes específicos em um projeto, criando automaticamente a pasta node_modules com os arquivos necessários e atualizando o arquivo package.json.
+- colocar dentro "scripts": {"dev": "nodemon index.js", "test": "jest"}  - Colocar dentro do Script para utilizar -> npm run dev e também -> npm run test
 - npm run dev - roda o projeto
 - npm build - resetar o servidor
 - npm audit fix - para atualizações e teste de vunabilidade do projeto
