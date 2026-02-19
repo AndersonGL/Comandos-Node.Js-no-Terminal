@@ -11,7 +11,7 @@
 
 # Guia Para Absolutos em Node.js
 
-![node-baby](../img/node-absolute-begginer.png)
+
 
 * **Artigo Original**: [AN ABSOLUTE BEGINNER'S GUIDE TO NODE.JS](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 * **Tradução**: [Eric Douglas](https://github.com/ericdouglas)
