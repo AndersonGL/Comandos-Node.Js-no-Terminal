@@ -1,4 +1,4 @@
-# Comandos-node-terminal
+# Comandos-Node.JS-no-Terminal
 
 - npm run dev - roda o projeto
 - npm build - resetar o servidor
