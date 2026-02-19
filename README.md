@@ -4,7 +4,7 @@
 - npm install - Ele permite instalar pacotes específicos em um projeto, criando automaticamente a pasta node_modules com os arquivos necessários e atualizando o arquivo package.json.
 - colocar dentro "scripts": {"dev": "nodemon index.js", "test": "jest"}  - Colocar dentro do Script para utilizar -> npm run dev e também -> npm run test
 - npm run dev - roda o projeto
-- npm build - resetar o servidor
+- npm build - resetar o servidor, build rápido para confirmar que ficou estável no projeto inteiro.
 - npm audit fix - para atualizações e teste de vunabilidade do projeto
 - npm install express - Esse comando instala o framework Express, muito usado para criar servidores HTTP com Node.js.
 - npm update - Manter pacotes atualizados é essencial para garantir segurança e performance.
