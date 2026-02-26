@@ -57,7 +57,11 @@ Mantém dependências atualizadas (segurança e performance).
 npm audit
 npm audit fix
 ```
+## 🔎 Fazer Testes no Código
 
+```bash
+npm test
+```
 Analisa e corrige falhas de segurança automaticamente.
 
 ---
