@@ -57,6 +57,12 @@ Mantém dependências atualizadas (segurança e performance).
 npm audit
 npm audit fix
 ```
+
+## 🔎 Resetar o Servidor dentro do Projeto
+
+```bash
+npm run buid
+```
 ## 🔎 Fazer Testes no Código
 
 ```bash
