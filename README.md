@@ -54,8 +54,8 @@ Mantém dependências atualizadas (segurança e performance).
 ## 🔎 Verificar Vulnerabilidades
 
 ```bash
-npm audit
 npm audit fix
+npm audit fix  --force 
 ```
 
 ## 🔎 Resetar o Servidor dentro do Projeto
